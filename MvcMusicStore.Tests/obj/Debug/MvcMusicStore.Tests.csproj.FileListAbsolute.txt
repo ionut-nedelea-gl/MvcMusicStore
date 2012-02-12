@@ -1,0 +1,8 @@
+F:\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\MvcMusicStore.Tests.dll.config
+F:\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\MvcMusicStore.Tests.dll
+F:\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\MvcMusicStore.Tests.pdb
+F:\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\MvcMusicStore.dll
+F:\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\MvcMusicStore.pdb
+F:\Projects\MvcMusicStore\MvcMusicStore.Tests\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\MvcMusicStore\MvcMusicStore.Tests\obj\Debug\MvcMusicStore.Tests.dll
+F:\Projects\MvcMusicStore\MvcMusicStore.Tests\obj\Debug\MvcMusicStore.Tests.pdb
