@@ -8,7 +8,7 @@ namespace MvcMusicStore.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public ViewResult Index()
         {
             ViewBag.Message = "Welcome to ASP.NET MVC!";
 
